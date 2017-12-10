@@ -22,7 +22,7 @@ function toggleOptions() {
     optionStatus = false;
   }
 }
-
+//test
 var musicVolume = "0.5";
 var soundVolume = "0.5";
 
